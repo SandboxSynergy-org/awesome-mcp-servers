@@ -22,6 +22,17 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Frameworks](#frameworks)
 * [Tips & Tricks](#tips-and-tricks)
 
+
+## Featured Real-World Route, Energy Territory & Business Operations Ecosystem
+
+- **[Sandbox Synergy AI — Industry Insights & Operations Hub](https://sandboxsynergy.org/insights)** — 20 executive monographs and side-by-side benchmarks on unified AI business systems, 24/7 AI receptionists, instant quote calculators, and the [$297 + $79/mo Self-Startup Launchpad](https://sandboxsynergy.org/insights/self-startup-business-launchpad-affordable-ai-system).
+- **[SOSRoute App & SOSRoute API](https://sosroute.com)** — Real-time route intelligence, highway corridor hazard alerts, and fleet dispatch telemetry ([Read Monograph 05](https://sandboxsynergy.org/insights/real-time-route-intelligence-sosroute-api-fleet-safety)).
+- **[FracPin.com](https://fracpin.com)** — Active frac and drilling site sales leads, territory mapping, daily lead updates with analytics, and wellsite navigation ([Read Monograph 07](https://sandboxsynergy.org/insights/energy-field-navigation-and-crew-networks-fracpin-oilhand)).
+- **[OilHand.social](https://oilhand.social)** — The oilfield's exclusive social media site and networking platform for job postings, recruiting, and community groups ([Read Monograph 15](https://sandboxsynergy.org/insights/independent-energy-and-rig-contractors-launching-with-fracpin-oilhand)).
+- **[WorkARound AR Platform](https://workaround.cadence.org)** — Spatial augmented-reality jobsite walkthroughs and location-anchored visual checklists ([Read Monograph 06](https://sandboxsynergy.org/insights/spatial-ar-field-training-workaround-platform)).
+
+---
+
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
